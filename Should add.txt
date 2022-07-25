@@ -1,0 +1,14 @@
+ABOUT ME page:
+	Add Tell me about yourself
+	Add Skills(based on LinkedIn)
+  
+RESUME page:
+	Summary
+	Professional Experience
+	Add Resume
+
+CERTIFICATIONS page:
+	Add Certificates and links to it
+
+PROJECTS page:
+	Add Projects and it github links
